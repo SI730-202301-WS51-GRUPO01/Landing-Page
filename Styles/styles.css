@@ -104,7 +104,10 @@ ul{
 
 /*Contactenos*/
 
-
+textarea{
+    border-color: #000000;
+    border-radius: 15px;
+}
 
 /*Contactenos*/
 
