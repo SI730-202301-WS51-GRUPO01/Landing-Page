@@ -44,11 +44,34 @@
 /* FUNCIONALIDAD*/
 
 /* PLANES*/
+.planes{
+    background-color: #0597A6;
+}
 
+.plan{
+    color: #00DDE3;
+}
 
+ul{
+    color: #000000;
+}
 
+.header-section{
+    color: #ffffff;
+}
 
+.tittle-plan{
+    color: #0597A6;
+}
 
+.justify{
+    color: #ffffff;
+}
+
+.color-descuento{
+    color: #FF6767;
+    font-size: small;
+}
 
 /* PLANES*/
 
