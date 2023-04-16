@@ -1,5 +1,26 @@
 /* NAV*/
+.navbar{
+    color: #ffffff;
+}
 
+.nav-item a{
+    color: white;
+    text-decoration: none;
+}
+
+.bg-helpingHand{
+    background-color: #0597A6;
+}
+
+.img-navbar{
+    border-radius: 5px;
+    height: 40px;
+}
+
+.features h4{
+    color: #0597A6;
+    
+}
 
 
 
